@@ -2,7 +2,7 @@
 
 ### I'm a Student, Developer, and Gamer!!
 
-- 🔭 My discord bot for Valorant is online you can check at [Valorant Bot][valbot]!
+- 🔭 My discord bot for Valorant is online, you can check it here 👉 [Valorant Bot][valbot]!
 - 🌱 I’m currently learning stack development
 - 👯 I’m looking to collaborate with other developers
 - 💼 2021 Goals: Get placed in a company 
