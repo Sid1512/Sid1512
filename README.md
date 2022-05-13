@@ -5,7 +5,7 @@
 - 🔭 My discord bot for Valorant is online, you can check it here 👉 [Valorant Bot][valbot]!
 - 🌱 I’m currently learning stack development
 - 👯 I’m looking to collaborate with other developers
-- 💼 2021 Goals: Get placed in a company 
+- 💼 2022 Goals: Get placed in a company 
 - 🎮 Up for some games? Message me on discord at CodeHacker#9999
 
 ### Connect with me:
