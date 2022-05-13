@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="CodeHacker.GG | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />][twitter]
-[<img align="left" alt="SidBarjatya | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="sid_15120 | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />][insta]
+[<img align="left" alt="CodeHacker.GG | Twitter" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" />][twitter]
+[<img align="left" alt="SidBarjatya | LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" />][linkedin]
+[<img align="left" alt="sid_15120 | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />][insta]
 
 <br />
 
