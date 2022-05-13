@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning stack development
 - 👯 I’m looking to collaborate with other developers
 - 💼 2022 Goals: Get placed in a company 
-- 🎮 Up for some games? Message me on discord at CodeHacker#9999
+- 🎮 Up for some games? Message me on discord at CodeHacker#9133
 
 ### Connect with me:
 
