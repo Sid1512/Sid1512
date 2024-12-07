@@ -1,38 +1,43 @@
-## Hi there, I'm Siddharth Barjatya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there! 👋 Welcome to my GitHub Profile
 
-### I'm a Student, Developer, and Gamer!!
+## About Me
+Hi, I'm Siddharth Barjatya, a passionate **Software Engineer** with expertise in **AI, NLP, and Machine Learning**. With a knack for solving complex problems and a love for creating innovative solutions, I have worked on a range of projects leveraging cutting-edge technologies.
 
-- 🔭 My discord bot for Valorant is online, you can check it here 👉 [Valorant Bot][valbot]!
-- 🌱 I’m currently learning stack development
-- 👯 I’m looking to collaborate with other developers
-- 💼 2022 Goals: Get placed in a company 
-- 🎮 Up for some games? Message me on discord at CodeHacker#9133
+🎮 **Gamer Alert**: When I'm not coding, you might find me gaming! Feel free to text me on Discord if you'd like to connect.
 
-### Connect with me:
+---
 
-[<img align="left" alt="CodeHacker.GG | Twitter" width="22px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Twitter_icon-icons.com_66803.png" />][twitter]
-[<img align="left" alt="SidBarjatya | LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" />][linkedin]
-[<img align="left" alt="sid_15120 | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png" />][insta]
+## 🎯 2025 Goals
+- Pursue a Master's to deepen my expertise in AI and Machine Learning.
+- Work on advanced NLP and Generative AI research projects.
+- Expand my open-source contributions and collaborate on impactful projects.
 
-<br />
+---
 
-### Languages and Tools:
+## 🚀 Projects
+### 🌟 **Val Bot** (Revamp in Progress, Bot is offline)
+An advanced Discord bot for Valorant enthusiasts:
+- Provides real-time data extraction, rank updates, agent specifications, and game equipment details.
+- Gained traction with **50,000+ members** across **100+ Discord servers**.
+- Currently being revamped: transitioning from JavaScript to Python for enhanced performance and maintainability.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mongodb_logo_icon_170943.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
-</details>
+### 🤖 **Intelligent Document Analyzer**
+- Extracts insights from unstructured documents like research papers and letters.
+- Built an **NLP pipeline** using **Llama 2** for semantic analysis, summarization, and named entity recognition (NER).
+- Reduced document processing time by **30%** and achieved **85% entity recognition accuracy**.
 
-[valbot]: https://github.com/Sid1512/valorant-bot
-[github]: https://github.com/Sid1512
-[twitter]: https://twitter.com/codehackergg
-[insta]: https://www.instagram.com/sid_15120/
-[linkedin]: https://www.linkedin.com/in/sidbarjatya/
+---
+
+## 💻 Tech Stack
+- **Languages**: Python, Java, JavaScript, SQL
+- **Frameworks/Tools**: React, Node.js, FastAPI, Discord.js
+- **AI/ML**: TensorFlow, PyTorch, OpenAI API
+
+---
+
+## 📫 Let’s Connect
+- **LinkedIn**: [Siddharth Barjatya](https://www.linkedin.com/in/sidbarjatya/)
+- **Discord**: codehacker_
+- **Email**: [sid.barjatya@gmail.com](mailto:sid.barjatya@gmail.com)
+
+I’m always open to collaboration and exploring new ideas. Let’s create something amazing together! 🚀
