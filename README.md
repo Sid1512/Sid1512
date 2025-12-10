@@ -29,13 +29,13 @@ An advanced Discord bot for Valorant enthusiasts:
 - **Impact**: Achieved rapid adoption in **100+ Discord servers**, with a user base exceeding **50,000 members**.
 - **Features**: Real-time rank updates, agent specifications, and game equipment info.
 
-### 🎬 **FilmzSpot** (React Web App) [Github](https://github.com/Sid1512/FilmzSpot)[Live](https://filmzspot.netlify.app/)
+### 🎬 **FilmzSpot** (React Web App) [Github](https://github.com/Sid1512/FilmzSpot) &nbsp; [Live](https://filmzspot.netlify.app/)
 A platform for exploring movies and TV shows:
 - **Tech**: React.js, React Router.
 - **Performance**: Reduced page load times by **4-5 seconds** using lazy loading techniques.
 - **Engagement**: Increased user interaction by **30%** through real-time data integration.
 
-### 🐦 **Flappy Bird** (Browser Game) [Github](https://github.com/Sid1512/Flappy-Bird)[Live](https://sid1512.github.io/Flappy-Bird/)
+### 🐦 **Flappy Bird** (Browser Game) [Github](https://github.com/Sid1512/Flappy-Bird) &nbsp; [Live](https://sid1512.github.io/Flappy-Bird/)
 A classic game clone enhancing visual appeal:
 - **Tech**: HTML5, JavaScript, CSS.
 - **Features**: Implemented randomized pipe generation using `Math.random()`, leading to a **40% increase** in user engagement.
