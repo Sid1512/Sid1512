@@ -1,43 +1,55 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
 ## About Me
-Hi, I'm Siddharth Barjatya, a passionate **Software Engineer** with expertise in **AI, NLP, and Machine Learning**. With a knack for solving complex problems and a love for creating innovative solutions, I have worked on a range of projects leveraging cutting-edge technologies.
+Hi, I'm **Siddharth Barjatya**. I am currently a **Master's student in Computer Science** at the **University of Wisconsin-Madison**.
 
-🎮 **Gamer Alert**: When I'm not coding, you might find me gaming! Feel free to text me on Discord if you'd like to connect.
+I have a strong background in software engineering, with expertise in **Java, Python, and Full Stack Development**, and I am passionate about **AI, NLP, and Machine Learning**.
 
 ---
 
-## 🎯 2025 Goals
-- Pursue a Master's to deepen my expertise in AI and Machine Learning.
-- Work on advanced NLP and Generative AI research projects.
-- Expand my open-source contributions and collaborate on impactful projects.
+## 💼 Experience
+
+### **Software Engineer @ Accenture**
+*Dec 2022 – Jul 2025*
+- **Google Flights Search**: Developed backend code in Java to generate airline partner links, resulting in a **25% decrease in error rates**.
+- **Automation**: Proposed an automated SSL Certificate tracking system and integrated Google Sheets with Apps Script, saving **20 hours per week** in manual workload.
+
+### **Research Intern @ VDolt Technologies**
+*Jun 2022 – Nov 2022*
+- **LLM Research**: Explored capabilities of Large Language Models to assist in developing a GPT-based application.
+- **Optimization**: Improved UI/UX for the PixNow project by optimizing file sizes and API calls.
 
 ---
 
 ## 🚀 Projects
-### 🌟 **Val Bot** (Revamp in Progress, Bot is offline)
-An advanced Discord bot for Valorant enthusiasts:
-- Provides real-time data extraction, rank updates, agent specifications, and game equipment details.
-- Gained traction with **50,000+ members** across **100+ Discord servers**.
-- Currently being revamped: transitioning from JavaScript to Python for enhanced performance and maintainability.
 
-### 🤖 **Intelligent Document Analyzer**
-- Extracts insights from unstructured documents like research papers and letters.
-- Built an **NLP pipeline** using **Llama 2** for semantic analysis, summarization, and named entity recognition (NER).
-- Reduced document processing time by **30%** and achieved **85% entity recognition accuracy**.
+### 🌟 **Val Bot** (Discord Bot) [Github](https://github.com/Sid1512/valorant-bot)
+An advanced Discord bot for Valorant enthusiasts:
+- **Tech**: Discord.js, Node.js, Python.
+- **Impact**: Achieved rapid adoption in **100+ Discord servers**, with a user base exceeding **50,000 members**.
+- **Features**: Real-time rank updates, agent specifications, and game equipment info.
+
+### 🎬 **FilmzSpot** (React Web App) [Github](https://github.com/Sid1512/FilmzSpot)[Live](https://filmzspot.netlify.app/)
+A platform for exploring movies and TV shows:
+- **Tech**: React.js, React Router.
+- **Performance**: Reduced page load times by **4-5 seconds** using lazy loading techniques.
+- **Engagement**: Increased user interaction by **30%** through real-time data integration.
+
+### 🐦 **Flappy Bird** (Browser Game) [Github](https://github.com/Sid1512/Flappy-Bird)[Live](https://sid1512.github.io/Flappy-Bird/)
+A classic game clone enhancing visual appeal:
+- **Tech**: HTML5, JavaScript, CSS.
+- **Features**: Implemented randomized pipe generation using `Math.random()`, leading to a **40% increase** in user engagement.
 
 ---
 
 ## 💻 Tech Stack
-- **Languages**: Python, Java, JavaScript, SQL
-- **Frameworks/Tools**: React, Node.js, FastAPI, Discord.js
-- **AI/ML**: TensorFlow, PyTorch, OpenAI API
+- **Languages**: Java, HTML, CSS, JavaScript, Python, C
+- **Libraries & Frameworks**: Pandas, NumPy, React.js, Node.js, Express.js
+- **Databases**: MySQL, Oracle SQL, MongoDB
+- **Certifications**: Google Cloud Digital Leader
 
 ---
 
 ## 📫 Let’s Connect
 - **LinkedIn**: [Siddharth Barjatya](https://www.linkedin.com/in/sidbarjatya/)
-- **Discord**: codehacker_
-- **Email**: [sid.barjatya@gmail.com](mailto:sid.barjatya@gmail.com)
-
-I’m always open to collaboration and exploring new ideas. Let’s create something amazing together! 🚀
+- **Email**: [sbarjatya@wisc.edu](mailto:sbarjatya@wisc.edu)
